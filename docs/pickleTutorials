@@ -1,6 +1,8 @@
 #Pickle Tutorials
 
-I liked this tutorial https://www.datacamp.com/community/tutorials/pickle-python-tutorial because of the way they highlighted, defined, and explained each element as it was used. (See Figure 1) I also liked that they included real examples of how it might be used or how it couldn’t be used. This gave me context for how to understand what the code is actually doing. (I’m a what/why learner).
+I liked this tutorial https://www.datacamp.com/community/tutorials/pickle-python-tutorial because of the way they highlighted, 
+defined, and explained each element as it was used. (See Figure 1) I also liked that they included real examples of how it might 
+be used or how it couldn’t be used. This gave me context for how to understand what the code is actually doing. (I’m a what/why learner).
 ![DataCamp Tutorial](/docs/pickle_01.png "DataCamp Tutorial") 
 Figure 1: Datacamp Tutorial
 
