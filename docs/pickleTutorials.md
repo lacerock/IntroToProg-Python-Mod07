@@ -1,3 +1,9 @@
+Lacey Redinger
+11/18/19
+Foundations of Programming: Python
+Research: Serialization (Pickling)
+
+
 # Pickle Tutorials
 
 I liked this tutorial https://www.datacamp.com/community/tutorials/pickle-python-tutorial because of the way they highlighted, 
